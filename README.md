@@ -1,2 +1,2 @@
 # Recommendersystem-book-intellignet
-in this project machine will recommend you 5 books by your favorite book in Genre,Subject,Author and etc
+در این پروژه هدف پیدا کردن کتاب های مشابه علاقه کاربر بر حسب ژانر، موضوع و صاحب اثر می باشد.
